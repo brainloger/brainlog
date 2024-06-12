@@ -1,0 +1,28 @@
+.blog {
+    padding: 2em;
+    background-color: white;
+    margin: 1em;
+    border-radius: 8px;
+  }
+  
+  .blog article {
+    margin: 1em 0;
+  }
+  
+  @media (max-width: 768px) {
+    .blog {
+      padding: 1em;
+      margin: 0.5em;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .blog h2 {
+      font-size: 1.5em;
+    }
+  
+    .blog p {
+      font-size: 1em;
+    }
+  }
+  

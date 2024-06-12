@@ -1,0 +1,33 @@
+.features {
+    padding: 2em;
+    background-color: white;
+    margin: 1em;
+    border-radius: 8px;
+  }
+  
+  .features ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .features li {
+    margin: 1em 0;
+  }
+  
+  @media (max-width: 768px) {
+    .features {
+      padding: 1em;
+      margin: 0.5em;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .features h2 {
+      font-size: 1.5em;
+    }
+  
+    .features li {
+      font-size: 1em;
+    }
+  }
+  

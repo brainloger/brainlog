@@ -1,0 +1,24 @@
+.privacy-policy {
+    padding: 2em;
+    background-color: white;
+    margin: 1em;
+    border-radius: 8px;
+  }
+  
+  @media (max-width: 768px) {
+    .privacy-policy {
+      padding: 1em;
+      margin: 0.5em;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .privacy-policy h2 {
+      font-size: 1.5em;
+    }
+  
+    .privacy-policy p {
+      font-size: 1em;
+    }
+  }
+  
