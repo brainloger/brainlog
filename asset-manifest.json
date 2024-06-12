@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/brainlog/static/css/main.20450561.css",
+    "main.js": "/brainlog/static/js/main.58d89233.js",
+    "static/media/showcase_of_brainlog_app_mobile.png": "/brainlog/static/media/showcase_of_brainlog_app_mobile.86214606097c1f779118.png",
+    "index.html": "/brainlog/index.html",
+    "main.20450561.css.map": "/brainlog/static/css/main.20450561.css.map",
+    "main.58d89233.js.map": "/brainlog/static/js/main.58d89233.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20450561.css",
+    "static/js/main.58d89233.js"
+  ]
+}
