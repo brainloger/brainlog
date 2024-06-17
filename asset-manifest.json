@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.848ff239.css",
-    "main.js": "/static/js/main.c60297a2.js",
-    "static/media/showcase_of_brainlog_app_mobile.png": "/static/media/showcase_of_brainlog_app_mobile.06b544e9735777608337.png",
+    "main.css": "/static/css/main.7014a4fd.css",
+    "main.js": "/static/js/main.67b2e7d9.js",
+    "static/media/showcase_of_brainlog_app_mobile.png": "/static/media/showcase_of_brainlog_app_mobile.8b176da6fadbb466d774.png",
     "index.html": "/index.html",
-    "main.848ff239.css.map": "/static/css/main.848ff239.css.map",
-    "main.c60297a2.js.map": "/static/js/main.c60297a2.js.map"
+    "main.7014a4fd.css.map": "/static/css/main.7014a4fd.css.map",
+    "main.67b2e7d9.js.map": "/static/js/main.67b2e7d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.848ff239.css",
-    "static/js/main.c60297a2.js"
+    "static/css/main.7014a4fd.css",
+    "static/js/main.67b2e7d9.js"
   ]
 }
